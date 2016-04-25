@@ -4,6 +4,7 @@ OpenCartLanguageUpdater is a small tool that help programmer manage self-maintai
 
 features:
 1. copy new langauge files from source langauge to destination.
+
 2. copy new langauge item from source langauge file to destination.
 
 ## installation
