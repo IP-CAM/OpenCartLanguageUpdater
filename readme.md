@@ -1,11 +1,12 @@
-about OpenCartLanguageUpdater
+## about OpenCartLanguageUpdater
 
 OpenCartLanguageUpdater is a small tool that help programmer manage self-maintain langauge.
 
+features:
 1. copy new langauge files from source langauge to destination.
 2. copy new langauge item from source langauge file to destination.
 
-installation
+## installation
 
 1.download OpenCartLanguageUpdater from
 ```url
@@ -13,11 +14,13 @@ installation
  ```
 2.unzip and place to you web server's document root
 
-3.visit index.php . for example:
+## usage
+
+1.visit index.php . for example:
 ```url
 http://localhost/OpenCartLanguageUpdater/index.php
 ```
-4.enter the langauge folder 's full path,for example:
+2.enter the langauge folder 's full path,for example:
 ```url
 D:\www\opencart\catalog\language
 ```
@@ -25,17 +28,18 @@ for admin's langauge,please enter like this:
 ```url
 D:\www\opencart\admin\language
 ```
-5.create new language sub folder if you want
+create new language sub folder if you want
 ```shell
 mkdir "D:\www\opencart\catalog\language\zh-hk"
 ```
-6.click the button "next"
+3.click the button "next"
 
-7.choose source language and destination language.
+4.choose source language and destination language.
 
-8  click next,and "confirm"
+5  click next,and "confirm"
 
-9 done
+6 done
 
 
-licence: the MIT licence, free of charge.
+## licence
+the MIT licence, free of charge.
